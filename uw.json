@@ -1,0 +1,235 @@
+{
+
+    "Provenir": {
+
+        "Request": {
+
+            "UserID": 43932172,
+
+            "ID": "138684",
+
+            "Status": "",
+
+            "CustData": {
+
+                "AppInfo": {
+
+                    "SICCode": 3291,
+
+                    "RepFName": "GEETHA",
+
+                    "RepTitle": "RM",
+
+                    "TradeName": "",
+
+                    "CostC": 111647,
+
+                    "RepLName": "KAYITHI",
+
+                    "AppStatus": "Application currently being processed by Post Approval Compliance Dept",
+
+                    "BusName": "OSCAR HEALTHCARE INC",
+
+                    "RepPhone": "7165432222",
+
+                    "AppRcvdDt": "2019-02-06",
+
+                    "LiquidCredit": {
+
+                        "MedianOfferAmount": 24000,
+
+                        "LCReason4": "D3",
+
+                        "LCReason3": "D8",
+
+                        "LCReason2": "N1",
+
+                        "LCReason1": "CD",
+
+                        "decile": 90,
+
+                        "BusTotScore": 199
+
+                    },
+
+                    "PowerCurve": {
+
+                        "OverAllDecision": "AC",
+
+                        "Prod1SWRevCode1": "",
+
+                        "Prod1SWRevCode2": "",
+
+                        "Prod1SWRevCode3": "",
+
+                        "Prod1SWRevCode4": "",
+
+                        "Prod1SWRevCode5": "",
+
+                        "NonCardSegmentCategory": "A",
+
+                        "CardSegmentCategory": ""
+
+                    },
+
+                    "Principal": [
+
+                        {
+
+                            "PrincipalDetails": {
+
+                                "YearsAsOwner": null,
+
+                                "USCitizen": "Y",
+
+                                "Title": "OWNER",
+
+                                "SSN": 666048357,
+
+                                "PercentOwnership": 100,
+
+                                "NetWorth": 300000,
+
+                                "LName": "CROWLEY",
+
+                                "Index": 1,
+
+                                "HomePhone": "9782664310",
+
+                                "FName": "JIM",
+
+                                "ExistSSN": "Y",
+
+                                "DOB": "1967-09-09",
+
+                                "CashOrEquiv": 100000,
+
+                                "AnnualSalary": 200000,
+
+                                "ConBureau": {
+
+                                    "ScoreFactor3": "0524",
+
+                                    "ScoreFactor5": "",
+
+                                    "ScoreFactor4": "",
+
+                                    "ScoreFactor1": "",
+
+                                    "ScoreFactor2": "24",
+
+                                    "RiskScore": "0839",
+
+                                    "BureauNm": "EX"
+
+                                }
+
+                            }
+
+                        }
+
+                    ],
+
+                    "Products": {
+
+                        "NoProducts": 1,
+
+                        "Index": "",
+
+                        "ProductDetails": [
+
+                            {
+
+                                "Type": "LOC",
+
+                                "TermRequested": "",
+
+                                "termAppr": "",
+
+                                "Standby": null,
+
+                                "Spread": "",
+
+                                "SecuredDiscount": null,
+
+                                "SBAMaxSpread": "",
+
+                                "SBAMaxRate": "",
+
+                                "RiskBasedSpread": null,
+
+                                "RiskBasedRate": null,
+
+                                "RiskBasedIncrement": null,
+
+                                "Purpose": "GNEX",
+
+                                "PUCCNeeded": "N",
+
+                                "ProductList": "",
+
+                                "ProdIndex": 1,
+
+                                "PricingException": "",
+
+                                "PremierDiscount": null,
+
+                                "InitSpread": null,
+
+                                "LOCDirDebit": "N",
+
+                                "InitRate": null,
+
+                                "HMDAView": "N",
+
+                                "FinDecision": "A",
+
+                                "DirectDebitDiscount": null,
+
+                                "CommercialFlag": null,
+
+                                "BusSmart": "",
+
+                                "BusinessSmartDiscount": null,
+
+                                "AmtApproved": "0",
+
+                                "AmtRequested": "50000"
+
+                            }
+
+                        ]
+
+                    },
+
+                    "CurrentStatus": "Approve",
+
+                    "BusinessBureau": {
+
+                        "YearOnFile": "024",
+
+                        "NoHit": 0,
+
+                        "FileNum": 715201554,
+
+                        "CommIntelliscore": "0000008552",
+
+                        "BureauNm": "EX",
+
+                        "BureauIndex": "",
+
+                        "BureauDt": "2019-03-04",
+
+                        "BureauDown": ""
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+}
